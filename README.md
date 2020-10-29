@@ -34,4 +34,7 @@ maka akan muncul gambar seperti berikut
 
 Solusi 3
 
-3. Penamaan filter pada wordpress di usahakan tidak lebih dari 100 character untuk penamaan file disarankan hanya menggunakan huruf, angka, simbol dash(-), symbol underscore (_)
+Penamaan file pada wordpress di usahakan tidak lebih dari 100 character untuk penamaan file disarankan hanya menggunakan huruf, angka, simbol dash(-), symbol underscore (_), contoh: 
+- nama-file.jpg
+- nama-file-1.jpg
+- nama_file_1.jpg
