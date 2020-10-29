@@ -53,4 +53,6 @@ Masuk ke admin
 
 1. Buka file archive-product.php yang berada di "wp-content/themes/decorist/woocommerce/archive-product.php"
 
-2. 
+2. Untuk kode tambahan berada di baris 115 - 123
+
+![Alt Text](https://raw.githubusercontent.com/gazz96/furnioo/master/images/01.%20setting-tampilan-home.PNG "Change Permission 2")  
