@@ -38,3 +38,7 @@ Penamaan file pada wordpress di usahakan tidak lebih dari 100 character untuk pe
 - nama-file.jpg
 - nama-file-1.jpg
 - nama_file_1.jpg
+
+## Setting Tampilan Home
+
+Buka 
