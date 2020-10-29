@@ -43,7 +43,7 @@ Penamaan file pada wordpress di usahakan tidak lebih dari 100 character untuk pe
 
 Masuk ke admin
 
-![Alt Text](https://raw.githubusercontent.com/gazz96/furnioo/master/images/01.%20setting-tampilan-home.PNG "Change Permission 2")  
+![Alt Text](https://raw.githubusercontent.com/gazz96/furnioo/master/images/01.%20setting-tampilan-home.PNG "Setting Tampilan Home")  
 
 1. Pilih menu Appearance
 2. Pilih menu widgets
@@ -55,4 +55,4 @@ Masuk ke admin
 
 2. Untuk kode tambahan berada di baris 115 - 123
 
-![Alt Text](https://raw.githubusercontent.com/gazz96/furnioo/master/images/01.%20setting-tampilan-home.PNG "Change Permission 2")  
+![Alt Text](https://raw.githubusercontent.com/gazz96/furnioo/master/images/01.%20category%20description.PNG "Memindahkan deskripsi halaman category")  
