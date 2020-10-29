@@ -24,6 +24,14 @@ Rubah permission menjadi 755. [Ganti Permission di Hostinger.co.id](https://www.
 
 maka akan muncul gambar seperti berikut 
 
-![Alt Text](https://raw.githubusercontent.com/gazz96/furnioo/master/images/02.%20change-permission.PNG "Change Permission 2") 
+![Alt Text](https://raw.githubusercontent.com/gazz96/furnioo/master/images/02.%20change-permission.PNG "Change Permission 2")  
+
+3. Setting Seperti gambar diatas
+
+4. Pastikan angka 755
+
+5. Klik simpan untuk menyimpan perubahan
+
+Solusi 3
 
 3. Penamaan filter pada wordpress di usahakan tidak lebih dari 100 character untuk penamaan file disarankan hanya menggunakan huruf, angka, simbol dash(-), symbol underscore (_)
